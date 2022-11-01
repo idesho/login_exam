@@ -36,3 +36,19 @@ ja:
       updated: タスクを更新しました
     destroy:
       destroyed: タスクを削除しました
+  
+  users:
+    index:
+      title: ユーザー一覧ページ
+    new:
+      title: ユーザー登録ページ
+    edit:
+      title: ユーザー編集ページ
+    show:
+      title: ユーザー詳細ページ
+    create:
+      created: ユーザーを登録しました
+    update:
+      updated: ユーザーを更新しました
+    destroy:
+      destroyed: ユーザーを削除しました

@@ -34,6 +34,7 @@ class TasksController < ApplicationController
   end
 
   def destroy
+    @task.destroy
     redirect_to tasks_path, notice: t('.destroyed')
   end
 
