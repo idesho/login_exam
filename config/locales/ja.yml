@@ -41,14 +41,14 @@ ja:
     index:
       title: ユーザー一覧ページ
     new:
-      title: ユーザー登録ページ
+      title: アカウント登録ページ
     edit:
-      title: ユーザー編集ページ
+      title: アカウント編集ページ
     show:
-      title: ユーザー詳細ページ
+      title: アカウント詳細ページ
     create:
-      created: ユーザーを登録しました
+      created: アカウントを登録しました
     update:
-      updated: ユーザーを更新しました
+      updated: アカウントを更新しました
     destroy:
-      destroyed: ユーザーを削除しました
+      destroyed: アカウントを削除しました
